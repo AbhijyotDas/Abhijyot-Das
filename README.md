@@ -9,3 +9,7 @@ The motive of the project is to solve the problem of information asymmetry that 
 
 Project 2: Predicting the probability of Loan Default in Peer to Peer lending Market
 ------------------------------------------------------------------------------------
+
+
+
+![Project 2](https://user-images.githubusercontent.com/67180294/101999459-3f0fb400-3cab-11eb-99fc-07e8060c96f0.JPG)
