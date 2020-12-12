@@ -1,2 +1,2 @@
-## Abhijyot Das Portfolio
+## Abhijyot Das
 
