@@ -15,7 +15,7 @@ Despite technology and overall awareness, credit card fraud is on the rise and s
 ![Project 2](https://user-images.githubusercontent.com/67180294/101999459-3f0fb400-3cab-11eb-99fc-07e8060c96f0.JPG)
 
 
-Project 3: FINANCIAL TIME SERIES ANALYSIS ON CRUDE OIL PRICES (WTI)
+Project 3: Financial time series analysis on crude oil prices (WTI) - Quantify Market Risk using VAR approaches.
 ------------------------------------------------------------------
 Oil prices depend on many factors and have unpredictable movements. This fluctuating nature makes it harder to forecast. Volatility of oil prices has increased in the recent decade resulting in increased risk for the investors. The time variant volatility amplifies the issues when forecasting. The motivation of this project is to estimate the value at risk for the investors.
 
