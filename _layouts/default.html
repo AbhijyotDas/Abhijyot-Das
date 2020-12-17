@@ -15,7 +15,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="abhijyot"><a class="LI-simple-link" href='https://www.linkedin.com/in/abhijyot?trk=profile-badge'>Abhijyot D.</a></div>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}        
+        <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="abhijyot"><a class="LI-simple-link" href='https://www.linkedin.com/in/abhijyot?trk=profile-badge'>Abhijyot D.</a></div>
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
