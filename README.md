@@ -4,7 +4,7 @@ Project 1: Predicting the probability of Loan Default in Peer to Peer lending Ma
 ------------------------------------------------------------------------------------
 
 The motive of the project is to solve the problem of information asymmetry that persists in the peer to peer lending market. The objective is to help the lenders to make guided investment decision. The model ranks the loans based of probabilty of default.
-![Project 1](https://user-images.githubusercontent.com/67180294/103324392-69849f80-4a15-11eb-88a9-ef7390474be6.gif)
+![Project 1](https://user-images.githubusercontent.com/67180294/103963515-7c8b2400-5127-11eb-81f4-b241e224a92c.gif)
 
 
 Project 2: Credit card fraud detection - Comparision of various supervised learning methods and Sampling methods.
